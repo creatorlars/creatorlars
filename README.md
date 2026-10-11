@@ -1,6 +1,6 @@
 ### Lars Larsen, hardware product engineer, Portland OR
 
-Lead designer at **[LZX Industries](https://lzxindustries.net)** since 2011: video synthesizers and video processing instruments. I work on analog and video circuits, FPGA design, embedded C++ firmware, enclosures and manufacturing.
+I lead product design at **[LZX Industries](https://lzxindustries.net)**, where a small core team has made video synthesizers and video processing instruments since 2011. My work covers analog and video circuits, FPGA design, embedded C++ firmware, enclosures and manufacturing.
 
 Open to contract and full-time product development work, remote or hybrid in Portland. [Portfolio](https://creatorlars.github.io) · lars@lzxindustries.net · [LinkedIn](https://www.linkedin.com/in/lars-larsen-7b4a429)
 
