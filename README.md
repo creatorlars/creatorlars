@@ -2,7 +2,7 @@
 
 I design video instruments end to end at **[LZX Industries](https://lzxindustries.net)**: analog and video electronics, FPGA gateware, embedded firmware, enclosures, test rigs and the production line. 100+ products shipped since 2011.
 
-**Open to contract and full-time product-development work** — remote or Portland hybrid. lars@lzxindustries.net · [LinkedIn](https://www.linkedin.com/in/lars-larsen-7b4a429)
+**Open to contract and full-time product-development work** — remote or Portland hybrid. [Portfolio](https://creatorlars.github.io) · lars@lzxindustries.net · [LinkedIn](https://www.linkedin.com/in/lars-larsen-7b4a429)
 
 #### Public work
 
